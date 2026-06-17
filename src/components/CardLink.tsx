@@ -1,7 +1,7 @@
 
 const CardLink = () => {
   return (
-    <div>CardLink</div>
+    <div>CardLink = Icon - name - link </div>
   )
 }
 
