@@ -1,7 +1,14 @@
+import CardLink from "@/components/CardLink"
 
 const HomePage = () => {
   return (
-    <div>My Home</div>
+    <div className="contenu">
+      <p>My Home</p>
+
+      <br /><br /><br /><br />
+
+      <CardLink />
+    </div>
   )
 }
 
